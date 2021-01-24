@@ -1,14 +1,11 @@
 20210123 first edit file
 20210123 second-branch edit file
 20210123 first-branch edit file
-<<<<<<< HEAD
 merge code to master
 git merge --squash branch-name
 merge master code to your master
 git merge --squash master
 20210123 second-branch edit file
-=======
->>>>>>> main
 20210123 second-branch edit file again
 second-branch edit file 1
 second-branch edit file 2
