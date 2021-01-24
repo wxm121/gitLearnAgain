@@ -2,12 +2,9 @@
 20210123 second-branch edit file
 20210123 first-branch edit file
 20210123 second-branch edit file again
-<<<<<<< HEAD
 second-branch edit file 1
 second-branch edit file 2
 second-branch edit file 3
-=======
->>>>>>> main
 20210123 fouth-branch edit file 1
          fouth-branch edit file 2
          fouth-branch edit file 3
@@ -22,13 +19,3 @@ second-branch edit file 3
          third-branch edit file 5
          third-branch edit file 66
 
-<<<<<<< HEAD
-=======
-20210123 first edit file
-20210123 second-branch edit file
-20210123 first-branch edit file
-20210123 second-branch edit file again
-second-branch edit file 1
-second-branch edit file 2
-second-branch edit file 3
->>>>>>> main
