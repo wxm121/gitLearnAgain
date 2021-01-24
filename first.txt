@@ -2,6 +2,7 @@
 20210123 first edit file
 20210123 second-branch edit file
 20210123 first-branch edit file
+wxm
 merge code to master
 git merge --squash branch-name
 merge master code to your master
@@ -12,6 +13,7 @@ git merge --squash master
 second-branch edit file 1
 second-branch edit file 2
 9999999999999999999999999999999
+wxm
 second-branch edit file 3
 ##################################
 20210123 fouth-branch edit file 1
@@ -34,5 +36,6 @@ second-branch edit file 3
 44444444444444444444444444444444
          third-branch edit file 66
          $$$$$$$$$$$$$$$$$$$$$$$$$
+wxm
 
 
