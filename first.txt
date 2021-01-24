@@ -8,8 +8,10 @@ merge master code to your master
 git merge --squash master
 20210123 second-branch edit file
 20210123 second-branch edit file again
+5555555555555555555555555555555
 second-branch edit file 1
 second-branch edit file 2
+9999999999999999999999999999999
 second-branch edit file 3
 ##################################
 20210123 fouth-branch edit file 1
@@ -21,12 +23,15 @@ second-branch edit file 3
 20210123 fouth-branch edit file 7
 20210123 test again 
 ##################################
+0000000000000000000000000000000000
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 20210123 third-branch edit file 1
          third-branch edit file 2
          third-branch edit file 3
          third-branch edit file 4
+1111111111111111111111111111111111
          third-branch edit file 5
+44444444444444444444444444444444
          third-branch edit file 66
          $$$$$$$$$$$$$$$$$$$$$$$$$
 
