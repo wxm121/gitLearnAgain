@@ -1,6 +1,4 @@
 20210123 first edit file
-<<<<<<< HEAD
 20210123 second-branch edit file
-=======
 20210123 first-branch edit file
->>>>>>> 495d7442c9cb493c92b1573559aea14bc922c378
+
